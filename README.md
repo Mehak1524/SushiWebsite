@@ -26,7 +26,7 @@ This project is my first venture into web development, where I learned and appli
   
 ![image](https://github.com/Mehak1524/SushiWebsite/assets/144198759/44cd452f-427f-4f46-9dd9-aa9762365b83)
 
-Check out the live verseion of the Sushi Website here - https://mehak1524.github.io/SushiWebsite/#food
+Check out the live version of the Sushi Website here - https://mehak1524.github.io/SushiWebsite/#food
 
 
 ## Technologies Used
